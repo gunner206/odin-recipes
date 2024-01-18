@@ -1,0 +1,47 @@
+
+body {
+    background-color: rgb(5, 5, 71);
+}
+h2 {
+    background-color: black;
+    text-align: center;
+    color: yellow;
+    border: 2px solid;
+    margin-top: 40px;
+}
+.title {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    padding: 15px;
+    border: solid 2px yellow;
+}
+.images {
+    border: 10px solid yellow;
+    margin-top: 70px;
+}
+ .images.one {
+    margin-left: 40px;
+
+ }
+ .images.two {
+    margin: 0px 360px;
+
+ }
+ .images.tree {
+    margin-left: -60px;
+ }
+
+
+ .title1 {
+    margin-left: 130px;
+    background-color: aliceblue;
+ }
+ .title2 {
+    margin-left: 600px;
+    background-color: aliceblue;
+ }
+ .title3 {
+    margin-left: 570px;
+    background-color: aliceblue;
+ }
